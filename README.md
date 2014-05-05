@@ -161,9 +161,23 @@ made it out from the dreaded beta land, so when I restarted my spree about
 a month ago, I tried to make sure to stop starting stuff and start finishing
 them.
 
-And this segues beautifully into...
+And this segues beautifully back into...
 
 ## Conclusion
 
-...dedication. After kind of completing my experiment, I found new ways to
-improve myself as a developer and as a person.
+...dedication. After kind of completing my initial contribution experiment,
+I found new ways to improve myself as a developer and as a person. I will
+strive to continuously do so, and I hope that I have inspired you in some way
+to do something like it. Be inspired to do something, create a routine to do
+it, and be dedicated enough to keep doing it. And most importantly, remember to
+develop because it's so much fun!
+
+I conclude this talk with a quote from my favorite TV dad:
+"Success is 1% inspiration, 98% perspiration, and 2% attention to detail."
+- Phil Dunphy, Modern Family
+
+Any questions?
+Because of the nature of this talk, I would like to hold an Open Space about
+this topic later on this evening.
+
+Thank you.
