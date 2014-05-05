@@ -18,59 +18,77 @@ innuendo-laden question "It can't be that hard, right?". The three topics are:
 
 In the context of this talk, these three all relate. More importantly,
 I believe that dedication is a goal that you can reach with a combination of
-inspiration and routine.
+inspiration and routine. All three lead to the other in some way.
 
 ## Dedication
 
-So, what do I mean when I talk about "dedication"?
+So, what do I mean when I talk about "dedication"? To me, it's about the
+dedication to always want to become a better developer and to always strive to
+evolve your skills. And why would one want that? It could be many things, but
+my personal favorite is probably a certain feeling that you might actually
+recognize. Sometimes when you find a new brilliant tool, or something you just
+wrote just fucking works exactly the way you planned it (or better), you get
+this very nice feeling that I think only developers can understand, and you
+just tilt your head back and go "oh, that is soooo beautiful". You might know
+this feeling or something like it, right? It's like a beautiful little storm of
+endorphins, and they come from what is actually pretty small things.
+
+It's also a lot of fun to be good at stuff, especially when that "stuff" is
+about creating more stuff. Developing is a form of creativity, and human beings
+as ourselves get a special sort of satisfaction when creating things. However,
+to create something, you need some inspiration.
 
 ## Inspiration
 
-When working with developers, it's important to understand how they are
-thinking. When a developer says something like the line quoted above without
-any hints of sarcasm, she is usually met with disbelief and a reply in the
-lines of "yes it can".
+So, where do we get inspiration? We developers create things for different
+reasons. Sometimes it's for our daily work, and when it's that, the inspiration
+is usually focused around solutions to a problem you're hired to solve at work.
+And, sometimes it's because you had a very great idea for something you've been
+thinking about on your free time and you just want to scratch that creative
+little itch.
+
+Inspiration can happen in many ways, and regardless of how, when inspired, it's
+very easy to go to the title phrase of this talk: "It can't be that hard,
+right?". If you say this to someone without any hints of sarcasm, you'll
+usually met with disbelief and a reply in the lines of "hells yes it can".
 
 Developers create things. Creators overall, not just developers, usually
 develop an abstract skill of thinking. This form of thinking allows one to go
 from a view of a problem to a suggested solution very quickly. Or, in the case
 of art forms like painting, go from nothing to vision of creation equally
-quickly. This is usually called a "spark of creation".
-
----
-
-When one quickly goes from the very beginning of a workflow to a vision of the
-finished creation, it's very simple to underestimate the length of the road
-between start and finish. In a world where [everything is an
-estimation][scales], it is as easy as it is deadly to overlook what could very
-well be the entire process.
+quickly. When one quickly goes from the very beginning of a workflow to
+a vision of the finished creation, it's very simple to underestimate the length
+of the road between start and finish.
 
 So, in a sense, I agree with the disbeliever saying "yes, it can be that
-hard". I believe that there is some form of naivety connected to this. To
-relate back to my younger days, I did something of the sorts during math
-classes.
+hard". After a couple of years of being a developer, I've realized that the
+road to the finish can be very long, if not infinite. I mean, how many of us
+have actually been literally **done** with a project? To add to this, that road
+is not only paved with good intentions; it's also paved with unforeseen errors
+during development as well as lots and lots of Exceptions. Therefore, I think
+that the "It can't be that hard" mindset can be seen as a form of naivety.
 
-I took pretty much every math class possible up until the end of high
-school, and all my math teachers concluded that I only had one real issue as
-a math student; Whenever I saw a problem, I solved it all in my head and just
-stated the solution. My teachers then tried to explain that I needed to state
-all my steps so that they could follow my train of thought. As the rebellious
-little punk I was (and to some extent still am &lt;3) I answered with
-"Well, I got the solution. Why would you need anything else?" and then
-reluctantly did all the steps needed.
+To relate back to actual naivety in my younger days, I did something of the
+sorts during math classes. I took pretty much every math class possible up
+until the end of high school, and all my math teachers concluded that I only
+had one real issue as a math student; Whenever I saw a problem, I solved it all
+in my head and just stated the solution. My teachers then tried to explain that
+I needed to state all my steps so that they could follow my train of thought
+and that the steps are even more important than the answer. As the rebellious
+little shit I was (and to some extent still am &lt;3) I answered with "Well,
+I got the solution. Why would you need anything else?" and then reluctantly did
+all the steps needed.
 
 I have since realized that my approach was poor and naive, and I am thankful
 for the fact that my teachers were adamant that my workflow was bad. Still,
 this naivety stuck with me, and when I started to develop software, I was back
 at square one again.
 
----
-
 But, I also defend this Developer Naïveté. It's not all bad. To the contrary,
 I find it really useful! Based on my own experiences and my half decade of
 working with developers, I've observed that we reach really intense levels of
-productivity when we have the sparks generated by this naivety. So, while
-I agree that it is bad to disregard the amount of work needed to go from
+productivity when we have the creative sparks generated by this naivety. So,
+while I agree that it is bad to disregard the amount of work needed to go from
 problem to solution, I think it is worse to undoubtedly quench these sparks and
 disregard them as naive.
 
@@ -83,57 +101,23 @@ the developer will eventually stop having them and might lose the connection to
 one of the most valuable feelings about being a developer; the feeling of
 creativity.
 
-So, if you hear a developer say something in the line of the opening phrase,
-I urge you to reconsider before dismissing the idea.
+However, this kind of dismissal can also have the complete opposite effect.
+I overheard a conversation from one of the tech leads at Spotify saying "Well,
+whatever you do, do *not* build a new build system. That would be the absolute
+worst thing to do at any given time at all!". So, naturally, I went home and
+started to build a new build system, because you can't tell me what I can't do!
 
+In all seriousness though, the point I am trying to get across is that it is
+important to recognize when someone is inspired and is presenting an idea, and
+try to help that person by discussing that idea. Not with dismissal, but with
+an open mind and with constructive criticism.
 
----
+So, that's about keeping and defending inspiration, but where do you actually
+*get* it from? This segues nicely into...
 
+## Routine
 
 177 days ago I read [a blog post about 177 days of GitHub][177]. 177 days
 later, I am at my [177th day of GitHub contributions][thiderman]! The
 apprentice is now at the same level as the master, and as it seems I will
 surpass him and carry his legacy forward!
-
-It has been very interesting, and I've learned a lot about myself over the past
-six months, especially about my habits. I'm very proud over the fact that
-I have been doing this over almost half a year now. Granted, some days have
-been less effective and meaningful, but I've still always managed to do it.
-
-The only time I've actually employed trickery was when GitHub [changed the
-rules about timezones][change]. Before this change, contributions ran on PST
-(San Francisco time), meaning that my contribution window for a certain date
-was 9:00AM - 9:00AM. One day not long ago, I was coding a bit just before
-midnight. Before committing, I got a phone call. That call lasted a bit more
-than an hour, so when it was done and I committed and pushed, my heart stopped.
-My streak was dead. I calmly panicked and tried to figure out what happened.
-When I found the blog post linked above, I decided that GitHub changed the
-rules without me really knowing it, so I tricked the commit back into the
-streak. Not the proudest moment, but hey.
-
----
-
-Unfortunately, sometimes life comes in the way. Today was such a day. For more
-than the last 24 hours, the systems I work with have been having... troubles.
-Of course, this being the week when I am in a temporary leadership position,
-this led to me being the one responsible of coordinating efforts to fix
-everything that's broken. This is, as one can imagine, exhausting. Especially
-if it drags on to the point where you need a lot of overtime. As such, my
-contributions for today have been weak, but I have done them. And that's
-a success to me, since I am at the point where I am almost amazed at the fact
-that I can keyboard coherently.
-
-So, all in all, I've become a better person since I now have at least a slight
-sense of discipline, and I've contributed back to the world that enables me to
-be them powerhouse of a hax0r I am today. 177 days, roughly ~900 commits, over
-30 projects contributed to, and countless hours of awesome coding fun times!
-It's a win-win, it feels awesome, and I hope that I will continue doing it for
-way more than 177 more days!
-
-And to that note, I will now collapse in the most collapsing way anything has
-collapsed in quite a while. Bonne nuit.
-
-
-[177]: https://ryanseys.com/blog/177-days-of-github/
-[thiderman]: https://github.com/thiderman
-[change]: https://github.com/blog/1793-timezone-aware-contribution-graphs
