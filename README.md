@@ -124,14 +124,14 @@ a small patch or reporting an issue will count. The goal of this idea is to get
 into the habit of contributing every day and keeping that up by developing the
 mindset of not wanting to break the chain.
 
-This really piqued my interest, so I set out to do it. When I started, I was
-notoriously bad at habits and actually getting shit done, so I thought that
-maybe I could change that whilst getting a chance to give back to the beautiful
-world of Open Source Software. And I did. I even got to the point where
-I myself could write a blog post called "177 days of GitHub", where I boasted
-about how well I had done. I did almost 900 commits and contributed to 11
-projects that were not my own. Even more importantly, I started 7 new ones of
-my own.
+This really piqued my interest, so I set out to do it. It can't be that hard,
+right? When I started, I was notoriously bad at habits and actually getting
+shit done, so I thought that maybe I could change that whilst getting a chance
+to give back to the beautiful world of Open Source Software. And I did. I even
+got to the point where I myself could write a blog post called "177 days of
+GitHub", where I boasted about how well I had done. I did almost 900 commits
+and contributed to 11 projects that were not my own. Even more importantly,
+I started 7 new ones of my own.
 
 After a while of doing the contributions, I started to feel very inspired.
 Because I was exercising my mind in contributing to non-work things every day,
