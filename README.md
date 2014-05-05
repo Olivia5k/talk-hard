@@ -117,7 +117,53 @@ So, that's about keeping and defending inspiration, but where do you actually
 
 ## Routine
 
-177 days ago I read [a blog post about 177 days of GitHub][177]. 177 days
-later, I am at my [177th day of GitHub contributions][thiderman]! The
-apprentice is now at the same level as the master, and as it seems I will
-surpass him and carry his legacy forward!
+Last October I read [a blog post about 177 days of GitHub][177]. It outlines
+the idea that you should strive to contribute something to an Open Source
+project every day. It doesn't need to be much, just 20 minutes of writing
+a small patch or reporting an issue will count. The goal of this idea is to get
+into the habit of contributing every day and keeping that up by developing the
+mindset of not wanting to break the chain.
+
+This really piqued my interest, so I set out to do it. When I started, I was
+notoriously bad at habits and actually getting shit done, so I thought that
+maybe I could change that whilst getting a chance to give back to the beautiful
+world of Open Source Software. And I did. I even got to the point where
+I myself could write a blog post called "177 days of GitHub", where I boasted
+about how well I had done. I did almost 900 commits and contributed to 11
+projects that were not my own. Even more importantly, I started 7 new ones of
+my own.
+
+After a while of doing the contributions, I started to feel very inspired.
+Because I was exercising my mind in contributing to non-work things every day,
+my creative muscles started to flex a bit. Not only did I start new projects,
+but I also felt like doing things I had never done before. So, I tried golang,
+which by the by is an awesome language that actually deserves at least part of
+the hype it is getting. I also got this fix idea to try network programming for
+some reason. I had no idea of how to do any kind of that, but I wanted to make
+some kind of Celery-like thing, but with no central broker. As an aside, if you
+ever feel that normal programming isn't infuriating enough, try network
+programming. Network code always finds a way to die in the most inexplicable
+ways, and after a while it feels like it's literally just mocking you. No
+matter really, but what happened was that I was actually feeling a positive
+effect from doing this contribution; I was getting more inspired than ever
+before.
+
+Unfortunately, irony was abound! Just two days after being glad for passing 177
+days and excited to make it through a full year of contributions to Github,
+I failed. I missed my 24 hour window because of reasons, and my streak was
+broken. This was a harder hit than I thought, and I was actually very sad about
+my failure. I took a month of vacation from the hard routine, and then I had
+a little retrospective of how I'd done. I celebrated all the good things I just
+mentioned, but I also realized that I was starting more than I finished.
+I mean, many moons and 200 commits later, my network project still kinda can't
+send messages properly. Only one of the projects that I started ever really
+made it out from the dreaded beta land, so when I restarted my spree about
+a month ago, I tried to make sure to stop starting stuff and start finishing
+them.
+
+And this segues beautifully into...
+
+## Conclusion
+
+...dedication. After kind of completing my experiment, I found new ways to
+improve myself as a developer and as a person.
