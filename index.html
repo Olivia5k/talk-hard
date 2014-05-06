@@ -4,9 +4,9 @@
 	<head>
 		<meta charset="utf-8">
 
-		<title>Developers considered harmful</title>
+		<title>It can't be that hard, right?</title>
 
-		<meta name="description" content="Angry fast paced talk about testing your code">
+		<meta name="description" content="Inspiring fast paced talk about getting shit done">
 		<meta name="author" content="Lowe Thiderman">
 
 		<meta name="apple-mobile-web-app-capable" content="yes" />
@@ -36,137 +36,88 @@
 			<div class="slides">
 
 			<section>
-					<h1>Developers considered harmful</h1>
+					<h1>It can't be that hard, right?</h1>
 					<h3>by Lowe Thiderman</h3>
-					<h5 class="dark">harmful.ninjaloot.se</h5>
+					<h5 class="dark">hard.ninjaloot.se</h5>
 				</section>
 
 				<section>
-					<h2>Show of hands</h2>
-					<h3 class="fragment">Who here is 100% sure that their code works perfectly?</h3>
-
-					<ol>
-						<li class="fragment">Really, really awesome</li>
-						<li class="fragment">Liars</li>
-						<li class="fragment">Fools</li>
-					</ol>
-					<h3 class="fragment" style="margin: 10%;">
-						Shouldn't we be sure?
-					</h3>
+					<h1 class="fragment">Dedication</h1>
+					<h1 class="fragment">Inspiration</h1>
+					<h1 class="fragment">Routine</h1>
 				</section>
 
 				<section>
-					<h2>Too many people do not test their code</h2>
-					<h4 class="fragment">And why is this a problem?</h4>
+					<h1>Dedication</h1>
+					<h3 class="fragment">Becoming better</h3>
+					<ul>
+						<li class="fragment">Head tilt feeling</li>
+						<li class="fragment">Funsies!</li>
+						<li class="fragment">Creating things</li>
+					</ul>
 				</section>
 
 				<section>
-					<h1>It's because you suck</h1>
-					<h4 class="fragment dark">(...bitch)</h4>
+					<h1>Inspiration</h1>
+					<h3 class="fragment">How do we get inspired?</h3>
+					<ul>
+						<li class="fragment">It's for work</li>
+						<li class="fragment">It just happens</li>
+					</ul>
+				</section>
+
+				<section>
+					<h1>It can't be that hard, right?</h1>
+				</section>
+
+				<section>
+					<h1>"...yes it can!"</h1>
+				</section>
+
+				<section>
+					<h1>Abstract thinking</h1>
+					<ul>
+						<li class="fragment">
+							Problem
+							<span class="fragment">&nbsp;-&gt;&nbsp; Solution</span>
+						</li>
+						<li class="fragment">
+							Nothing
+							<span class="fragment">&nbsp;-&gt;&nbsp; Vision</span>
+						</li>
+					</ul>
+
+					<h2 class="fragment margin">Yes, it can be that hard.</h2>
 
 					<ul>
-						<li class="fragment">Errors are everywhere</li>
 						<li class="fragment">
-							<span>SyntaxError</span><span class="fragment">, TypeError</span><span class="fragment">, NetworkError</span><span class="fragment">, CodeError</span><span class="fragment">, and semantic errors</span>
+							The road can be very long
+						</li>
+						<li class="fragment">
+							Have you ever been <b>done</b>?
 						</li>
 					</ul>
 				</section>
 
 				<section>
-					<h1>
-						Testing is a very effective way to avoid errors!
-					</h1>
-				</section>
-
-				<section>
-					<h2>The excuses</h2>
+					<h1>Naivety?</h1>
 					<ul>
-						<li class="fragment">It takes too much time</li>
-						<li class="fragment">
-							There is too much untested code already
-							<ul class="dark">
-								<li class="fragment">Test all new code</li>
-								<li class="fragment">Write tests when you fix things</li>
-							</ul>
-						</li>
-						<li class="fragment">We test it manually</li>
-						<li class="fragment">I wrote it; I know that it works</li>
+						<li class="fragment">I did all the math</li>
+						<li class="fragment">Teachers said I only had one real problem...</li>
+						<li class="fragment">...I did it all in my head.</li>
+						<li class="fragment">Explaining and communicating the steps are important</li>
 					</ul>
 				</section>
 
 				<section>
-					<h2>Why I think people don't test</h2>
+					<h1>Naivety!</h1>
 					<ul>
-						<li class="fragment">It's insulting</li>
-						<li class="fragment">
-							Test sites and test examples suck ass
-							<pre class="fragment"><code contenteditable>self.assertEqual(1 + 1, 2)</code></pre>
-						</li>
-						<li class="fragment">It's really scary</li>
+						<li class="fragment">It's not all bad!</li>
+						<li class="fragment">It comes with inspiration...</li>
+						<li class="fragment">...and inspiration is fantastic for productivity!</li>
+						<li class="fragment">Getting the inspired one to explain the steps is important</li>
+						<li class="fragment">Open mind and constructive criticism</li>
 					</ul>
-				</section>
-
-				<section>
-					<h2>Unit testing</h2>
-					<ul>
-						<li class="fragment">Really quick</li>
-						<li class="fragment">Small piece of code as possible</li>
-					</ul>
-
-					<pre class="fragment"><code contenteditable>class StringFilter(object):
-    def cummings_filter(self, string):
-        return string.lower()</code></pre>
-
-<pre class="fragment"><code contenteditable>class StringFilterTests(unittest.TestType):
-    def test_cummings_filter(self):
-        sf = StringFilter()
-        result = sf.cummings_filter('TeSt StrInG heHE')
-
-        self.assertEqual(result, 'test string hehe')</code></pre>
-				</section>
-
-				<section>
-					<h2>Integration testing</h2>
-					<div class="fragment dark">
-						<small>(sometimes functional testing)</small>
-					</div>
-
-					<ul>
-						<li class="fragment">Tests the bigger picture</li>
-						<li class="fragment">
-							Assume a website <span class="fragment">: /register/</span>
-						</li>
-						<li class="fragment">
-							Proper registration
-							<ul class="proper">
-							    <li class="fragment">keNtPhlikkAh_1988</li>
-							    <li class="fragment">hunter2</li>
-							    <li class="fragment">rebecca_black_r00ls@aol.com</li>
-							</ul>
-						</li>
-						<li class="fragment">
-							Improper registration
-							<ul class="improper">
-								<li class="fragment">admin</li>
-								<li class="fragment">a</li>
-								<li class="fragment">b@d@email.!</li>
-							</ul>
-						</li>
-					</ul>
-				</section>
-
-				<section>
-					<h2>Why I think people should test</h2>
-					<ul>
-						<li class="fragment">You get proof that your code works</li>
-						<li class="fragment">You get confidence in your code</li>
-						<li class="fragment">You will write better code</li>
-					</ul>
-				</section>
-
-				<section>
-					<h1>If only one thing</h1>
-					<h2 class="fragment">Reconsider testing</h2>
 				</section>
 
 				<section>
@@ -174,7 +125,6 @@
 				</section>
 
 			</div>
-
 		</div>
 
 		<script src="lib/js/head.min.js"></script>

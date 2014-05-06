@@ -168,9 +168,15 @@ body {
 .dark {
 	color: #888 !important;
 }
+.darker {
+	color: #444 !important;
+}
 .proper li {
 	color: #aeee00;
 }
 .improper li {
 	color: #ff2c4b;
+}
+.margin {
+	margin-top: 10% !important;
 }
